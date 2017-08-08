@@ -1,0 +1,12 @@
+{
+    "title": "spring 相关",
+    "language": "zh-hans",
+    "plugins": [
+        "search-plus"
+    ],
+	"pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+	}
+}
